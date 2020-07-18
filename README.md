@@ -1,5 +1,7 @@
 # Angular Material Tutorial
 
+Tech: Angular - Material - Firebase
+
 Tutorial: Angular Material Tutorial In One Video
 
 Author: CodAffection
